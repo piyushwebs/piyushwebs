@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <!-- 🔁 Replace the src below with your own banner image path or URL -->
-<img src="./YOUR_BANNER_IMAGE.png" alt="Piyush Bhoyar Banner" width="100%"/>
+<img src="./piyush_banner.png" alt="Piyush Bhoyar Banner" width="100%"/>
 
 # Hello there,
 <div>
