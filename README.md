@@ -1,399 +1,174 @@
-<!-- ================================================================
-     PIYUSH BHOYAR — GitHub Profile README
-     Theme: Anime Dark Blue — Clean & Elegant
-     ================================================================ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&text=Piyush%20Bhoyar&fontColor=FFD700&fontSize=50&fontAlignY=38&desc=The%20Grand%20Line%20of%20Code%20⚓&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
-<!-- TOP BANNER — Anime blue gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=PIYUSH%20BHOYAR&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Backend%20Developer%20%7C%20MERN%20Stack%20%7C%20AWS%20Cloud&descColor=7eb8f7&descAlignY=62&animation=fadeIn" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%8F%B4%E2%80%8D⚓+Full+Stack+Dev+%7C+Backend+%7C+Cloud;🌊+Sailing+the+Grand+Line+of+Tech;💻+Built+with+React%2C+Node%2C+AWS+%26+More)](https://git.io/typing-svg)
+
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</p>
-
-<!-- HERO — Avatar + Typing -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="65%">
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=800&color=7EB8F7&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Piyush+Bhoyar+👋;MERN+Stack+Developer+⚡;Backend+%26+Cloud+Engineer+☁️;Building+APIs+that+Never+Fail+🔧;Open+to+Collabs+%26+Opportunities+🚀" alt="Typing SVG" />
-        <br/><br/>
-        <p>
-          <a href="mailto:piyushbhoyar708@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f3460?style=for-the-badge&logo=gmail&logoColor=7eb8f7"/></a>&nbsp;
-          <a href="https://github.com/piyushwebs"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=7eb8f7"/></a>&nbsp;
-          <img src="https://img.shields.io/badge/Nagpur%2C%20India-0f3460?style=for-the-badge&logo=googlemaps&logoColor=7eb8f7"/>
-        </p>
-        <p>
-          <img src="https://komarev.com/ghpvc/?username=piyushwebs&color=1E90FF&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
-        </p>
-      </td>
-      <td align="center" width="35%">
-        <img src="https://media.tenor.com/GfSX-u7VGM4AAAAj/coding.gif" width="210" alt="Developer Avatar"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</p>
-
 ---
 
-<!-- ABOUT ME -->
-<h2 align="center">⚡ About Me</h2>
+## 🏴‍☠️ The Pirate's Log — About Me
 
-```javascript
-const piyush = {
-  name:       "Piyush Bhoyar",
-  role:       "MERN Stack Developer & Backend Engineer",
-  location:   "Nagpur, India 🇮🇳",
-  university: "Rashtrasant Tukadoji Maharaj Nagpur University",
-  degree:     "B.Tech — Graduating 2027",
-  currently:  "Backend Developer Intern @ Parkby (Remote) 🚀",
-  stack:      ["MongoDB", "Express.js", "React.js", "Node.js"],
-  cloud:      ["AWS EC2", "AWS S3", "Elastic Load Balancing"],
-  interests:  ["RESTful APIs", "Cloud Infrastructure", "AI/ML Integration", "DSA"],
-  contact:    "piyushbhoyar708@gmail.com",
-  openTo:     "Full Stack Roles | Cloud Projects | Hackathons"
-};
-```
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</p>
-
----
-
-<!-- TECH STACK -->
-<h2 align="center">🧪 Tech Stack</h2>
-
-<h4 align="center">⚡ Languages</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-0f3460?style=for-the-badge&logo=c&logoColor=7eb8f7"/>
-  <img src="https://img.shields.io/badge/Java-0f3460?style=for-the-badge&logo=openjdk&logoColor=7eb8f7"/>
-  <img src="https://img.shields.io/badge/JavaScript-0f3460?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-0f3460?style=for-the-badge&logo=python&logoColor=7eb8f7"/>
-</p>
-
-<h4 align="center">🖥️ Frontend</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-0d1b2a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-0d1b2a?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0d1b2a?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0d1b2a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
-</p>
-
-<h4 align="center">🔧 Backend & Databases</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0d1b2a?style=for-the-badge&logo=node.js&logoColor=6DA55F"/>
-  <img src="https://img.shields.io/badge/Express.js-0d1b2a?style=for-the-badge&logo=express&logoColor=7eb8f7"/>
-  <img src="https://img.shields.io/badge/Django-0d1b2a?style=for-the-badge&logo=django&logoColor=6acf8a"/>
-  <img src="https://img.shields.io/badge/Flask-0d1b2a?style=for-the-badge&logo=flask&logoColor=7eb8f7"/>
-  <img src="https://img.shields.io/badge/MongoDB-0d1b2a?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1b2a?style=for-the-badge&logo=postgresql&logoColor=7eb8f7"/>
-  <img src="https://img.shields.io/badge/Supabase-0d1b2a?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-  <img src="https://img.shields.io/badge/JWT-0d1b2a?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=7eb8f7"/>
-</p>
-
-<h4 align="center">☁️ Cloud & DevOps</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-0f3460?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-0f3460?style=for-the-badge&logo=amazon-ec2&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/AWS_S3-0f3460?style=for-the-badge&logo=amazon-s3&logoColor=569A31"/>
-  <img src="https://img.shields.io/badge/Git-0f3460?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-0f3460?style=for-the-badge&logo=github&logoColor=7eb8f7"/>
-  <img src="https://img.shields.io/badge/Linux-0f3460?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Postman-0f3460?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-</p>
-
-<h4 align="center">🤖 AI / ML</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-0d1b2a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/PyTorch-0d1b2a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0d1b2a?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-0d1b2a?style=for-the-badge&logo=google-gemini&logoColor=8E75B2"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</p>
-
----
-
-<!-- EXPERIENCE -->
-<h2 align="center">🏢 Experience</h2>
-
-<table align="center" width="92%">
+<table>
   <tr>
-    <td>
-      <h3>🚗 Parkby &nbsp;&nbsp; <code>Backend Developer & Cloud Intern</code> &nbsp;&nbsp; <em>Jan 2026 – Present | Remote</em></h3>
-      <ul>
-        <li>🔧 Built & maintained <strong>RESTful APIs</strong> using Django for core application features</li>
-        <li>🔗 Integrated frontend & backend by connecting and validating multiple API endpoints</li>
-        <li>🗄️ Designed and managed database operations using <strong>Supabase (PostgreSQL)</strong></li>
-        <li>🔐 Implemented secure <strong>JWT Authentication</strong> & role-based access control</li>
-        <li>☁️ Supported backend deployment and environment configuration for cloud infrastructure</li>
-        <li>🐙 Managed version control & collaborative workflows using <strong>Git & GitHub</strong></li>
-      </ul>
+    <td style="vertical-align:top; width:65%;">
+
+> *"Inherited Will, The Destiny of the Age, and the Dreams of the People... These are things that will never be stopped!"* — Whitebeard
+
+**🧑‍💻 Piyush Bhoyar** | Nagpur, India  
+Backend Developer & Cloud Intern @ **Parkby**  
+B.Tech @ RTMNU | Expected 2027  
+
+- ⚓ Sailing through **MERN Stack** waters  
+- 🌊 Navigating **AWS Cloud** seas  
+- 🗺️ On a voyage to master **DSA & System Design**  
+- 🔥 Currently charting: **Django** & **PostgreSQL**  
+
+    </td>
+    <td style="text-align:center; width:35%;">
+      <img src="https://media.tenor.com/bpSAEjDotAUAAAAj/luffy-one-piece.gif" width="200" alt="Luffy Running"/>
+      <br/>
+      <sub>⚓ <i>Gearing 2nd — Always Shipping</i></sub>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
+## 🗡️ Devil Fruit Powers — Tech Stack
 
-<br/>
-
-<!-- Project 1 -->
-<table align="center" width="92%">
-  <tr>
-    <td align="left" width="62%">
-      <h3>🧠 Schizophrenia Detection System</h3>
-      <p><em>AI-powered early risk assessment using behavioral & medical data</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0d1b2a?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-0d1b2a?style=flat-square&logo=node.js&logoColor=6DA55F"/>
-        <img src="https://img.shields.io/badge/Flask-0d1b2a?style=flat-square&logo=flask&logoColor=7eb8f7"/>
-        <img src="https://img.shields.io/badge/MongoDB-0d1b2a?style=flat-square&logo=mongodb&logoColor=4EA94B"/>
-        <img src="https://img.shields.io/badge/TensorFlow-0d1b2a?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>
-        <img src="https://img.shields.io/badge/PyTorch-0d1b2a?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>
-      </p>
-      <ul>
-        <li>🔬 Built responsive <strong>React frontend</strong> + <strong>Node/Express</strong> backend</li>
-        <li>🤖 Connected Python ML models via <strong>Flask APIs</strong> for real-time prediction</li>
-        <li>🗃️ <strong>MongoDB</strong> for secure patient & assessment data storage</li>
-        <li>📊 Integrated <strong>Scikit-learn + TensorFlow + PyTorch</strong> pipelines</li>
-      </ul>
-    </td>
-    <td align="center" width="38%">
-      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="190" alt="AI Brain"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Project 2 -->
-<table align="center" width="92%">
-  <tr>
-    <td align="center" width="38%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="190" alt="Web Dev"/>
-    </td>
-    <td align="left" width="62%">
-      <h3>♿ Smart Web Accessibility Analyzer</h3>
-      <p><em>WCAG-compliant website accessibility audit tool</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0d1b2a?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-0d1b2a?style=flat-square&logo=node.js&logoColor=6DA55F"/>
-        <img src="https://img.shields.io/badge/MongoDB-0d1b2a?style=flat-square&logo=mongodb&logoColor=4EA94B"/>
-        <img src="https://img.shields.io/badge/Puppeteer-0d1b2a?style=flat-square&logo=puppeteer&logoColor=40B5A4"/>
-        <img src="https://img.shields.io/badge/Gemini_API-0d1b2a?style=flat-square&logo=google-gemini&logoColor=8E75B2"/>
-      </p>
-      <ul>
-        <li>🕷️ Automated scanning via <strong>Puppeteer + axe-core</strong> for WCAG violations</li>
-        <li>📋 RESTful APIs generating structured <strong>accessibility reports</strong></li>
-        <li>🗃️ MongoDB for storing scan history and results</li>
-        <li>🤖 Scope for <strong>Gemini AI-based</strong> accessibility insights</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Project 3 -->
-<table align="center" width="92%">
-  <tr>
-    <td align="left" width="62%">
-      <h3>☁️ Amazon S3 Static Website Hosting</h3>
-      <p><em>End-to-end AWS cloud storage & website deployment project</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/Amazon_S3-0f3460?style=flat-square&logo=amazon-s3&logoColor=569A31"/>
-        <img src="https://img.shields.io/badge/AWS-0f3460?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
-        <img src="https://img.shields.io/badge/IAM-0f3460?style=flat-square&logo=amazonaws&logoColor=7eb8f7"/>
-      </p>
-      <ul>
-        <li>🪣 Configured <strong>S3 buckets</strong> with versioning, public access & lifecycle policies</li>
-        <li>🌐 Hosted static website with custom <strong>index & error pages</strong></li>
-        <li>⏳ Implemented <strong>Standard → Standard-IA</strong> storage transitions</li>
-        <li>♻️ Set automated <strong>expiration rules</strong> for cost optimization</li>
-      </ul>
-    </td>
-    <td align="center" width="38%">
-      <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="190" alt="Cloud"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<h3>⚓ Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
+
+<h3>🌊 Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<h3>🔥 Backend & Databases</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+<h3>☁️ Cloud & DevOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-<!-- ACHIEVEMENTS -->
-<h2 align="center">🏆 Achievements</h2>
+## 📊 GitHub Stats — The Bounty Board
 
 <div align="center">
 
-| 🎖️ | Achievement | Event |
-|:---:|:---|:---|
-| 🥉 | **3rd Place** — CoDecode Competition | IIT Bombay Nagpur Zonal TechFest |
-| 🥉 | **3rd Place** — Coding Relay | YCCE, Nagpur |
-| 🔝 | **Top 10** — Website Designing & Coding | YCCE & KDK College, Nagpur |
+![](https://github-readme-stats.vercel.app/api?username=piyushwebs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_color=FFD700&title_color=FFD700&icon_color=FFD700)
+
+![](https://nirzak-streak-stats.vercel.app/?user=piyushwebs&theme=tokyonight&hide_border=false&border=FFD700&ring=FFD700&fire=FF4500&currStreakLabel=FFD700)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushwebs&theme=tokyonight&hide_border=false&layout=compact&border_color=FFD700&title_color=FFD700)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
 
-<!-- CERTIFICATIONS -->
-<h2 align="center">📜 Certifications</h2>
+## ⚔️ LeetCode — Haki Training Log
 
 <div align="center">
 
-| 🏅 Certificate | 🏫 Issuer |
-|:---|:---|
-| DSA — Sigma Batch | Apna College |
-| MERN Stack | Apna College |
-| AWS Educate — Cloud Storage | Amazon Web Services |
-| Cloud Computing 101 | AWS Educate |
+> *"The weak don't get to decide anything, not even how they die."* — Trafalgar Law
+
+<img src="https://leetcard.jacoblin.cool/piyushbhoyar?theme=dark&font=Josefin%20Slab&ext=heatmap&border=1&radius=10" alt="LeetCode Stats"/>
+
+**310 Problems Solved** | 🟢 Easy: 137 &nbsp;|&nbsp; 🟡 Medium: 161 &nbsp;|&nbsp; 🔴 Hard: 12  
+**Contest Rating: 1,487** | Top **48.21%** Globally | **17 Contests** Attended  
+**978 Submissions** in the past year | Max Streak: **44 days** 🔥
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+## 🏆 Achievements — Pirate Bounties Claimed
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=piyushwebs&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-&nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=piyushwebs&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushwebs&theme=tokyonight&hide_border=true&layout=compact" width="42%"/>
-
-<br/><br/>
-
-<!-- Activity Graph — anime blue -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushwebs&bg_color=0d1b2a&color=7eb8f7&line=1E90FF&point=ffffff&area=true&hide_border=true&area_color=0f3460" width="95%"/>
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</p>
+| 🏅 Achievement | 🏴‍☠️ Description |
+|---|---|
+| 🥉 **CoDecode — IIT Bombay TechFest** | Secured 3rd Position at Nagpur Zonal Level |
+| 🥉 **Coding Relay — YCCE Nagpur** | 3rd Position in Competitive Coding |
+| 🔝 **Top 10 — Website Design & Coding** | YCCE & KDK College, Nagpur |
 
 ---
 
-<!-- LEETCODE -->
-<h2 align="center">⚡ LeetCode Stats</h2>
+## 🗺️ Projects — The Treasure Map
 
-<div align="center">
+### 🧠 Schizophrenia Detection System
+> AI-powered early risk assessment system using behavioral & medical data  
+`React.js` `Node.js` `Express` `MongoDB` `Flask` `Scikit-learn` `TensorFlow` `PyTorch`
 
-<!-- LeetCode card — correct username PiyushBhoyar708 based on profile pic -->
-<img src="https://leetcard.jacoblin.cool/piyush_bhoyar?theme=dark&font=Baloo+2&ext=heatmap&border=0&radius=16&color=1E90FF&background=0d1b2a&stroke=7eb8f7" alt="LeetCode Stats"/>
+### ♿ Smart Web Accessibility Analyzer
+> Full-stack app for analyzing WCAG accessibility compliance with AI insights  
+`React.js` `Node.js` `Express.js` `MongoDB` `Puppeteer` `axe-core` `Gemini API`
 
-> ⚠️ **Note:** Replace `piyush_bhoyar` in the URL above with your actual LeetCode username to show live stats!
+### ☁️ Amazon S3 Static Website Hosting
+> Configured S3 buckets, versioning, lifecycle policies & static site deployment  
+`AWS S3` `S3 Versioning` `Lifecycle Policies`
 
-<br/><br/>
-
-<table width="80%">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Solved-310%2F3892-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Contest%20Rating-1487-7eb8f7?style=for-the-badge&logo=leetcode&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Global%20Rank-412%2C292-4169E1?style=for-the-badge&logo=leetcode&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Top-48.21%25-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Easy-137%2F935-2ecc71?style=for-the-badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Medium-161%2F2036-1E90FF?style=for-the-badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Hard-12%2F921-7eb8f7?style=for-the-badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Max%20Streak-44%20Days-4169E1?style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Active%20Days-155-1E90FF?style=for-the-badge"/>
-    </td>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/🏅%20Badge-50%20Days%202026-7eb8f7?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-<!-- SNAKE — Anime style, green -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2500&pause=600&color=00FF88&center=true&vCenter=true&width=600&lines=🌀+LET+IT+RIP+—+Watch+the+Snake+Spin!+🌀;⚡+Every+commit+feeds+the+beast...+⚡;🔥+3...+2...+1...+CONTRIBUTE!+🔥" alt="Snake Typing"/>
-
-<br/><br/>
+## 🐍 Contribution Snake — The Sea King
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushwebs/piyushwebs/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushwebs/piyushwebs/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/piyushwebs/piyushwebs/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushwebs/piyushwebs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyushwebs/piyushwebs/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/piyushwebs/piyushwebs/output/github-snake.svg" />
 </picture>
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/🌀_Snake_Color-Neon_Green-00FF88?style=for-the-badge&labelColor=0d1b2a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡_Updates-Every_12_Hours-1E90FF?style=for-the-badge&labelColor=0d1b2a"/>
+## 🌐 Socials — Straw Hat Crew Links
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushbhoyar708@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyushwebs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushbhoyar)
 
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</p>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+### ✍️ Pirate's Wisdom
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=piyushwebs&icon=5&color=9)](https://visitcount.itsvg.in)
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%"/>
