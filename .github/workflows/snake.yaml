@@ -1,24 +1,52 @@
+# ================================================================
+#  GitHub Actions — Contribution Snake Animation
+#  File Location: .github/workflows/snake.yml
+#
+#  HOW TO SET UP:
+#  1. In your "piyushwebs" repo, create folder: .github/workflows/
+#  2. Place this file inside that folder as: snake.yml
+#  3. Go to GitHub → Actions tab → click "Generate Snake Animation"
+#  4. Click "Run workflow" → Run manually once
+#  5. After it finishes, an "output" branch will be created
+#  6. Your README snake will now show up automatically!
+#  7. It auto-refreshes every 12 hours (tracks live contributions)
+# ================================================================
+
 name: Generate Snake Animation
+
 on:
   schedule:
+    # Runs every 12 hours — keeps snake fresh with latest contributions
     - cron: "0 */12 * * *"
+
+  # Allows you to trigger this manually from GitHub Actions tab
   workflow_dispatch:
+
+  # Also runs whenever you push to main
   push:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: Platane/snk/svg-only@v3
+      # Step 1: Generate the snake SVG files
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?palette=github-dark
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=red&color_dots=#0d0d0d,#330000,#660000,#990000,#cc0000,#ff0000
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#D4AF37&color_dots=#1a1a2e,#0f3460,#16213e,#7eb8f7,#D4AF37
+
+      # Step 2: Push the generated SVGs to the "output" branch
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
