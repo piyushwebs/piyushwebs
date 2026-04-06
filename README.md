@@ -1,145 +1,76 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,2,5,30&text=Piyush%20Bhoyar&fontColor=FFD700&fontSize=50&fontAlignY=38&desc=The%20Grand%20Line%20of%20Code%20⚓&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<div align="center">
+<!-- 🔁 Replace the src below with your own banner image path or URL -->
+<img src="./YOUR_BANNER_IMAGE.png" alt="Piyush Bhoyar Banner" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=%F0%9F%8F%B4%E2%80%8D⚓+Full+Stack+Dev+%7C+Backend+%7C+Cloud;🌊+Sailing+the+Grand+Line+of+Tech;💻+Built+with+React%2C+Node%2C+AWS+%26+More)](https://git.io/typing-svg)
+# Hello there,
+<div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=535&lines=I'm+Piyush+Bhoyar!;Backend+Developer;Cloud+%26+AWS+Explorer;MERN+Stack+Developer;)](https://git.io/typing-svg)
 
 </div>
 
----
-
-## 🏴‍☠️ The Pirate's Log — About Me
+<h1>💫 About Me:</h1>
 
 <table>
   <tr>
-    <td style="vertical-align:top; width:65%;">
+    <td style="width:70%; vertical-align: top;">
 
-> *"Inherited Will, The Destiny of the Age, and the Dreams of the People... These are things that will never be stopped!"* — Whitebeard
+- 💻 **Backend Developer & Cloud Intern** @ Parkby
+- ⚡ Currently working with **Django, Supabase & AWS**
+- 🧠 Solving **LeetCode challenges** daily
+- 📚 **Skills:** React.js, Node.js, Express, MongoDB, AWS EC2/S3
+- 🎓 B.Tech @ RTMNU Nagpur | Expected 2027
+- 📬 **Email:** piyushbhoyar708@gmail.com
 
-**🧑‍💻 Piyush Bhoyar** | Nagpur, India  
-Backend Developer & Cloud Intern @ **Parkby**  
-B.Tech @ RTMNU | Expected 2027  
-
-- ⚓ Sailing through **MERN Stack** waters  
-- 🌊 Navigating **AWS Cloud** seas  
-- 🗺️ On a voyage to master **DSA & System Design**  
-- 🔥 Currently charting: **Django** & **PostgreSQL**  
+✨ *Building solutions that make a difference!* 🚀
 
     </td>
-    <td style="text-align:center; width:35%;">
-      <img src="https://media.tenor.com/bpSAEjDotAUAAAAj/luffy-one-piece.gif" width="200" alt="Luffy Running"/>
-      <br/>
-      <sub>⚓ <i>Gearing 2nd — Always Shipping</i></sub>
+    <td style="width:30%; text-align:center;">
+      <!-- 🔁 Replace with your own photo URL or local path -->
+      <img src="./YOUR_PHOTO.png" alt="Piyush Photo" width="200"/>
     </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushbhoyar)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/piyushwebs)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushbhoyar708@gmail.com)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🗡️ Devil Fruit Powers — Tech Stack
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3>⚓ Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<h3>🌊 Frontend</h3>
-<p>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=piyushwebs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=piyushwebs&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushwebs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3>🔥 Backend & Databases</h3>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<h3>☁️ Cloud & DevOps</h3>
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+# 🧠 LeetCode Stats:
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img height="180em" src="https://leetcard.jacoblin.cool/piyushbhoyar?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
 
----
+> **310 Solved** &nbsp;|&nbsp; 🟢 Easy: 137 &nbsp;|&nbsp; 🟡 Medium: 161 &nbsp;|&nbsp; 🔴 Hard: 12
+>
+> Contest Rating: **1,487** &nbsp;|&nbsp; Top **48.21%** Globally &nbsp;|&nbsp; **17 Contests** &nbsp;|&nbsp; Max Streak: **44 days** 🔥
 
-## 📊 GitHub Stats — The Bounty Board
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<div align="center">
+# 📈 3D Contribution Graph:
 
-![](https://github-readme-stats.vercel.app/api?username=piyushwebs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&border_color=FFD700&title_color=FFD700&icon_color=FFD700)
+![3D Contribution Graph](https://ssr-contributions-svg.vercel.app/_/piyushwebs?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
 
-![](https://nirzak-streak-stats.vercel.app/?user=piyushwebs&theme=tokyonight&hide_border=false&border=FFD700&ring=FFD700&fire=FF4500&currStreakLabel=FFD700)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyushwebs&theme=react-dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushwebs&theme=tokyonight&hide_border=false&layout=compact&border_color=FFD700&title_color=FFD700)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## ⚔️ LeetCode — Haki Training Log
-
-<div align="center">
-
-> *"The weak don't get to decide anything, not even how they die."* — Trafalgar Law
-
-<img src="https://leetcard.jacoblin.cool/piyushbhoyar?theme=dark&font=Josefin%20Slab&ext=heatmap&border=1&radius=10" alt="LeetCode Stats"/>
-
-**310 Problems Solved** | 🟢 Easy: 137 &nbsp;|&nbsp; 🟡 Medium: 161 &nbsp;|&nbsp; 🔴 Hard: 12  
-**Contest Rating: 1,487** | Top **48.21%** Globally | **17 Contests** Attended  
-**978 Submissions** in the past year | Max Streak: **44 days** 🔥
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 🏆 Achievements — Pirate Bounties Claimed
-
-| 🏅 Achievement | 🏴‍☠️ Description |
-|---|---|
-| 🥉 **CoDecode — IIT Bombay TechFest** | Secured 3rd Position at Nagpur Zonal Level |
-| 🥉 **Coding Relay — YCCE Nagpur** | 3rd Position in Competitive Coding |
-| 🔝 **Top 10 — Website Design & Coding** | YCCE & KDK College, Nagpur |
-
----
-
-## 🗺️ Projects — The Treasure Map
-
-### 🧠 Schizophrenia Detection System
-> AI-powered early risk assessment system using behavioral & medical data  
-`React.js` `Node.js` `Express` `MongoDB` `Flask` `Scikit-learn` `TensorFlow` `PyTorch`
-
-### ♿ Smart Web Accessibility Analyzer
-> Full-stack app for analyzing WCAG accessibility compliance with AI insights  
-`React.js` `Node.js` `Express.js` `MongoDB` `Puppeteer` `axe-core` `Gemini API`
-
-### ☁️ Amazon S3 Static Website Hosting
-> Configured S3 buckets, versioning, lifecycle policies & static site deployment  
-`AWS S3` `S3 Versioning` `Lifecycle Policies`
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 🐍 Contribution Snake — The Sea King
+# 🐍 Snake Game:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyushwebs/piyushwebs/output/github-snake-dark.svg" />
@@ -147,28 +78,13 @@ B.Tech @ RTMNU | Expected 2027
   <img alt="github-snake" src="https://raw.githubusercontent.com/piyushwebs/piyushwebs/output/github-snake.svg" />
 </picture>
 
----
-
-## 🌐 Socials — Straw Hat Crew Links
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushbhoyar708@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyushwebs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushbhoyar)
-
-</div>
-
----
-
-<div align="center">
-
-### ✍️ Pirate's Wisdom
-
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=piyushwebs&icon=5&color=9)](https://visitcount.itsvg.in)
+---
+[![](https://visitcount.itsvg.in/api?id=piyushwebs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%"/>
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
+</p>
