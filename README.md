@@ -54,8 +54,6 @@
 
 # 🧠 LeetCode Stats:
 
-<img height="180em" src="https://leetcard.jacoblin.cool/piyushbhoyar?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
-
 > **310 Solved** &nbsp;|&nbsp; 🟢 Easy: 137 &nbsp;|&nbsp; 🟡 Medium: 161 &nbsp;|&nbsp; 🔴 Hard: 12
 >
 > Contest Rating: **1,487** &nbsp;|&nbsp; Top **48.21%** Globally &nbsp;|&nbsp; **17 Contests** &nbsp;|&nbsp; Max Streak: **44 days** 🔥
